@@ -1,6 +1,9 @@
 
 server:
   port: 8081
+aws.qa.password: abc123
+default.direccion: xyz
+default.nroCasa: 123
 spring:
   application:
     name: main-server
